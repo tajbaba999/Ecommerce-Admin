@@ -1,4 +1,4 @@
-package com.example.ecommerceadmin
+package com.example.ecommerceadmin.model
 
 class CatogeryModel (
     var cat: String?= "",

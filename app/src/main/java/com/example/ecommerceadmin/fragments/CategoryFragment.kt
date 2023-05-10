@@ -11,12 +11,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
-import com.example.ecommerceadmin.CatogeryModel
+import com.example.ecommerceadmin.model.CatogeryModel
 import com.example.ecommerceadmin.R
 import com.example.ecommerceadmin.adapter.CategoryAdapter
 import com.example.ecommerceadmin.databinding.FragmentCategoryBinding
 import com.google.firebase.firestore.ktx.firestore
-import com.google.firebase.firestore.ktx.toObject
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.storage.FirebaseStorage
 import java.util.*
